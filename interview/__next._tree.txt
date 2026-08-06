@@ -1,3 +1,3 @@
 :HL["/ai-interviewer/_next/static/chunks/00k8vf8humkfz.css","style"]
 :HL["/ai-interviewer/_next/static/chunks/329n_4acrnvyx.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"interview","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"m2CfAeS03VU4kOdZbsYMb"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"interview","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"__2GjKD9vDs-6JkxpAPc0"}
