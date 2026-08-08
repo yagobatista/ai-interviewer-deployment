@@ -2,4 +2,4 @@
 2:I[19874,["/ai-interviewer-deployment/_next/static/chunks/0u8347ugb4x2k.js","/ai-interviewer-deployment/_next/static/chunks/2zlw1qq21m4r9.js"],"default"]
 3:I[71995,["/ai-interviewer-deployment/_next/static/chunks/0u8347ugb4x2k.js","/ai-interviewer-deployment/_next/static/chunks/2zlw1qq21m4r9.js"],"default"]
 4:[]
-0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"pdgN7HY0HlcUIwlt3SQrA"}
+0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"QLCXswWv5a9nCxG3fCY3w"}
